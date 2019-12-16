@@ -1,0 +1,14 @@
+c:\users\carapace computing\documents\visual studio 2017\Projects\QuestTextToSpeechGeneration\QuestTextToSpeechGeneration\bin\Debug\QuestTextToSpeechGeneration.exe.config
+c:\users\carapace computing\documents\visual studio 2017\Projects\QuestTextToSpeechGeneration\QuestTextToSpeechGeneration\bin\Debug\QuestTextToSpeechGeneration.exe
+c:\users\carapace computing\documents\visual studio 2017\Projects\QuestTextToSpeechGeneration\QuestTextToSpeechGeneration\bin\Debug\QuestTextToSpeechGeneration.pdb
+c:\users\carapace computing\documents\visual studio 2017\Projects\QuestTextToSpeechGeneration\QuestTextToSpeechGeneration\obj\Debug\QuestTextToSpeechGeneration.exe
+c:\users\carapace computing\documents\visual studio 2017\Projects\QuestTextToSpeechGeneration\QuestTextToSpeechGeneration\obj\Debug\QuestTextToSpeechGeneration.pdb
+c:\users\carapace computing\documents\visual studio 2017\Projects\QuestTextToSpeechGeneration\QuestTextToSpeechGeneration\obj\Debug\QuestTextToSpeechGeneration.csprojResolveAssemblyReference.cache
+F:\Workshop\QuestTextToSpeechGeneration\QuestTextToSpeechGeneration\bin\Debug\QuestTextToSpeechGeneration.exe.config
+F:\Workshop\QuestTextToSpeechGeneration\QuestTextToSpeechGeneration\bin\Debug\QuestTextToSpeechGeneration.exe
+F:\Workshop\QuestTextToSpeechGeneration\QuestTextToSpeechGeneration\bin\Debug\QuestTextToSpeechGeneration.pdb
+F:\Workshop\QuestTextToSpeechGeneration\QuestTextToSpeechGeneration\bin\Debug\Newtonsoft.Json.dll
+F:\Workshop\QuestTextToSpeechGeneration\QuestTextToSpeechGeneration\bin\Debug\Newtonsoft.Json.xml
+F:\Workshop\QuestTextToSpeechGeneration\QuestTextToSpeechGeneration\obj\Debug\QuestTextToSpeechGeneration.exe
+F:\Workshop\QuestTextToSpeechGeneration\QuestTextToSpeechGeneration\obj\Debug\QuestTextToSpeechGeneration.pdb
+F:\Workshop\QuestTextToSpeechGeneration\QuestTextToSpeechGeneration\obj\Debug\QuestTextToSpeechGeneration.csprojResolveAssemblyReference.cache
